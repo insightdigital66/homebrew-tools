@@ -20,6 +20,7 @@ brew install --cask mangayomi
 
 | Cask | Description | Version |
 |------|-------------|---------|
+| [anymex](Casks/anymex.rb) | Open source anime and manga tracking app for AniList, MyAnimeList, and Simkl | 3.0.7 |
 | [mangayomi](Casks/mangayomi.rb) | Multi-platform manga reader and anime watching app | 0.7.75 |
 
 ## Updating
